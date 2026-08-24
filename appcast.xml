@@ -9,10 +9,6 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.2/LytleBalance-1.0.2.zip" length="6099683" type="application/octet-stream" sparkle:edSignature="3YcUgDvOSkJLPFgETo2QFZzyxUJB0cbuzRlk5Yei3ehglYCoEiyrUMhx4PNzqLaoZTuOj8u40XN/eAMMdgnsBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.2/Lytle%20Balance3-2.delta" sparkle:deltaFrom="2" length="480814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qi3TKH1PNaT/7Oqkk+RHah5uugMz+ctgHnbX2J9h267DB/Ece6I0XPlay9E0SnQW6x908pXhHw2CkWjggcnmCw=="/>
-                <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.2/Lytle%20Balance3-1.delta" sparkle:deltaFrom="1" length="2337330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PYQkM5J+eOmcuyqpTjoC5D8Obj6X2fr6t7sdU5tYzWsGeV3AIrUyszqZhqZ8TLLDBfC+EWDVqy1MYBSNfLE2Dw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.1</title>
@@ -20,7 +16,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.2/LytleBalance-1.0.1.zip" length="6085119" type="application/octet-stream" sparkle:edSignature="F3j50wXmtOA7wa9bawWIOjj72BWa84ZrGN3+VgMGEO+bQowkZEOXkd5lne+Odi8Qzx8kjmhJ12UmmxNRodg2AA=="/>
+            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.1/LytleBalance-1.0.1.zip" length="6085119" type="application/octet-stream" sparkle:edSignature="F3j50wXmtOA7wa9bawWIOjj72BWa84ZrGN3+VgMGEO+bQowkZEOXkd5lne+Odi8Qzx8kjmhJ12UmmxNRodg2AA=="/>
         </item>
         <item>
             <title>1.0.0</title>
@@ -28,7 +24,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.2/LytleBalance-1.0.0.zip" length="3813273" type="application/octet-stream" sparkle:edSignature="EEAh0iCTOeG0aElE5eVDwxYiYBtShbqmrBbV0773/P1mY/560sH7SXbQYJRc9W0+BYDYRh4bIV8NelkdKQcnAQ=="/>
+            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.0/LytleBalance-1.0.0.zip" length="3813273" type="application/octet-stream" sparkle:edSignature="EEAh0iCTOeG0aElE5eVDwxYiYBtShbqmrBbV0773/P1mY/560sH7SXbQYJRc9W0+BYDYRh4bIV8NelkdKQcnAQ=="/>
         </item>
     </channel>
 </rss>
