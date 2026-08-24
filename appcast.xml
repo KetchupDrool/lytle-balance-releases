@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.0/LytleBalance-1.0.0.zip" length="3813260" type="application/octet-stream"/>
+            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.0/LytleBalance-1.0.0.zip" length="3813273" type="application/octet-stream" sparkle:edSignature="EEAh0iCTOeG0aElE5eVDwxYiYBtShbqmrBbV0773/P1mY/560sH7SXbQYJRc9W0+BYDYRh4bIV8NelkdKQcnAQ=="/>
         </item>
     </channel>
 </rss>
