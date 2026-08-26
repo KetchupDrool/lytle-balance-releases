@@ -3,6 +3,14 @@
     <channel>
         <title>Lytle Balance</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Wed, 26 Aug 2026 06:16:39 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.11/LytleBalance-1.0.11.zip" length="6883629" type="application/octet-stream" sparkle:edSignature="e0sEREMDGevCij6xHnAGHz2HM2GIq63hI4nxQPonHhCZwWX74N5yEG4V1L7b8avZFO47ekrLcFbImSKKDMdnBg=="/>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Tue, 25 Aug 2026 15:55:29 -0500</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.9/LytleBalance-1.0.9.zip" length="6695838" type="application/octet-stream" sparkle:edSignature="Mg+G/EdAphBBb+qMEBRZGc3T5snsujEtSU5DYzbekkm7hNjsh79lrwNpAUrEEhkhXpUqouI18EsDH+pNdlBfAQ=="/>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Tue, 25 Aug 2026 09:21:53 -0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/KetchupDrool/lytle-balance-releases/releases/download/v1.0.8/LytleBalance-1.0.8.zip" length="6595683" type="application/octet-stream" sparkle:edSignature="trg8biw8MFc+ITmGOW2WJwnqCgpMfg69vQT9mfJIyQGjM/qH+EgjxU5immdC6tY6WoaLQbT4xdNKcif/Ib23AQ=="/>
         </item>
     </channel>
 </rss>
